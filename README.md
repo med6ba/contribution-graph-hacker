@@ -12,11 +12,10 @@ This project is for educational purposes only. Misusing GitHub’s contribution 
 - ✅ Supports multiple repositories.
 
 ## 📦 Dependencies  
-- **Node.js** (Latest LTS recommended)  
-- **Git** (Installed) and a **GitHub repository** (public or private)  
-- **moment** – Handles date and time manipulation.  
-- **simple-git** – Runs Git commands seamlessly.  
-- **random** – Generates random numbers for commit distribution.
+- **Node.js** (Latest LTS recommended) 
+- **moment** – Handles date and time manipulation
+- **simple-git** – Runs Git commands seamlessly
+- **random** – Generates random numbers for commit distribution
 
 ## 🛠️ Getting Started
 
