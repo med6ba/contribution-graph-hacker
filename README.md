@@ -24,21 +24,18 @@ This project is for educational purposes only. Abusing GitHub's contribution sys
 
 ## 🛠️ Getting Started
 1️⃣ Clone the repo:
-```
-sh
+```sh
 git clone https://github.com/med6ba/contribution-graph-hacker.git
 cd contribution-graph-hacker
 ```
 
 2️⃣ Initialize your Node.js project:
-```
-sh
+```sh
 npm init -y  
 ```
 
 3️⃣ Install dependencies:
-```
-sh
+```sh
 npm install moment simple-git random
 ```
 4️⃣ Customize your commit script:
