@@ -45,4 +45,4 @@ This project is for educational purposes only. Misusing GitHub’s contribution 
     ```
 
 ## ©️ Credits  
-Based on the original project by <a href="https://github.com/fenrir2608/goGreen">**fenrir2608**</a>. This repository is a modified version with additional features.
+Based on the original project by <a href="https://github.com/fenrir2608/goGreen">**fenrir2608**</a>.
