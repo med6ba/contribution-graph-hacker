@@ -11,29 +11,45 @@ This project is for educational purposes only. Abusing GitHub's contribution sys
 - Customizable commit patterns.
 - Works with multiple repositories.
 
-## 🛠️ Requirements
+## 📦 Dependencies
 - Node.js (latest LTS recommended)
-- Git
-- A GitHub repository (public or private)
 
-## 🔧 Installation
-```sh
-# Clone the repository
-git clone https://github.com/yourusername/contribution-hack.git
-cd contribution-hack
+- Git and GitHub repository (public or private)
 
-# Install dependencies
-npm install
+- moment – Handles date and time manipulation.
+
+- simple-git – Runs Git commands seamlessly.
+
+- random – Generates random numbers for commit distribution.
+
+## 🛠️ Getting Started
+1️⃣ Clone the repo:
+```
+sh
+git clone https://github.com/med6ba/.git
+cd 
 ```
 
-## 🚀 Usage
+2️⃣ Initialize your Node.js project:
+```
+sh
+npm init -y  
+```
+
+3️⃣ Install dependencies:
+```
+sh
+npm install moment simple-git random
+```
+4️⃣ Customize your commit script:
+
 Open `config.json` and customize your commit schedule.
 
-Run the script to start generating commits:
+5️⃣ Run the script to start generating commits:
 
 ```sh
 node index.js
 ```
 
-## ©️ Copyright
+## ©️ Credits
 Original project by <a href="https://github.com/fenrir2608/goGreen">fenrir2608</a>. All rights belong to the original author. This repository is a modification of the original work.
