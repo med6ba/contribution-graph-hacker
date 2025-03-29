@@ -21,10 +21,11 @@ This project is for educational purposes only. Misusing GitHub’s contribution 
 ## 🛠️ Getting Started
 
 1️⃣ **Clone the repo:**
-    ```
+    - ```
     git clone https://github.com/med6ba/contribution-graph-hacker.git
     ```
-    ```
+    <br>
+    - ```
     cd contribution-graph-hacker
     ```
 
