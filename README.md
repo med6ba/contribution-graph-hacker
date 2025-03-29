@@ -1,4 +1,4 @@
-# GitHub Contribution Graph Hacker
+# 🟩 GitHub Contribution Graph Hacker
 
 ## 🚀 Overview
 This project automates Git commits to create a custom pattern on your GitHub contribution graph. By running a script, you can generate a visually appealing commit history.
@@ -26,8 +26,8 @@ This project is for educational purposes only. Abusing GitHub's contribution sys
 1️⃣ Clone the repo:
 ```
 sh
-git clone https://github.com/med6ba/.git
-cd 
+git clone https://github.com/med6ba/contribution-graph-hacker.git
+cd contribution-graph-hacker
 ```
 
 2️⃣ Initialize your Node.js project:
